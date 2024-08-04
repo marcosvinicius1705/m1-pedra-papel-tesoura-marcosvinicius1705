@@ -49,6 +49,7 @@ const gameCombinations = [
   },
 ];
 
+
 function domFilling(index, result) {
   // Select accordion item
   const accordionItem = document.querySelector(`#ac${index + 1}`);
